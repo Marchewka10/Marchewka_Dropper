@@ -1,3 +1,3 @@
-This application is inspired by "Keydrop" is a website where you can open and collect "CS-GO" skins and I decided to make an application or computer program inspired by this website
+Ta aplikacja jest inspirowana „Keydrop” to strona internetowa, na której można otwierać i zbierać skórki do „CS-GO” i postanowiłem stworzyć aplikację lub program komputerowy inspirowany tą witryną
 
-NOTES: The program does not provide real skins for the game, it's just a program for fun :)
+UWAGI: Program nie zapewnia prawdziwych skórek do gry, to tylko program do zabawy :)
